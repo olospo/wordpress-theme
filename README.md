@@ -1,2 +1,2 @@
 # wordpress-theme
-Starter WordPress theme for FK projects
+Starter WordPress theme
